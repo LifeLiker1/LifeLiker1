@@ -61,7 +61,7 @@ my name is Ivan(@LifeLiker1).<br>
   
 :fire: My Stats :
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LifeLiker1&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LifeLiker1&theme=dark&mode=weekly)](https://git.io/streak-stats)
 </div>
 <!---
 LifeLiker1/LifeLiker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
