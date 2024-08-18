@@ -1,9 +1,8 @@
 <div id="header" align="center">
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I’m @LifeLiker1<br>
   <p></p>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHUyOXJhMHprOGdyZ2YzNWJodzB1cG83dzI3cjdxYmxpOXBiMWs5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
 <p></p>
@@ -18,24 +17,32 @@ I’m @LifeLiker1<br>
 </div>
 <p></p>
 </div>
+:man_technologist:Let me introduce myself – 
+my name is Ivan(@LifeLiker1).<br>
 <p></p>
-<h2>:man_technologist:Let me introduce myself:</h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/><br>
-  <p></p>
-</div>
-  - :telescope: I’m working as a Fullstack developer.
+  I'm from Kazakhstan🇰🇿, but now live in St.Petersburg🇷🇺
+<p></p>
+
+- :telescope: I’m working as a Fullstack developer.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: You can contact me by VK or Telegram
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/><br>
+  <p></p>
+</div>
 
   <h1></h1>
   
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
+  
+:hammer_and_wrench: Languages and Tools :
+
+</div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -48,6 +55,13 @@ I’m @LifeLiker1<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<h1></h1>
+<div align="center">
+  
+:fire: My Stats :
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LifeLiker1&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 <!---
 LifeLiker1/LifeLiker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
