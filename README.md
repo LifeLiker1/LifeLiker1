@@ -18,8 +18,8 @@
 :man_technologist:Let me introduce myself – 
 my name is Ivan(@LifeLiker1).<br>
 <p></p>
-  I'm from Kazakhstan🇰🇿, but now live in St.Petersburg🇷🇺
-<p></p>
+  I'm from Kazakhstan , but now live in St.Petersburg
+  <p></p>
 
 - :telescope: I’m working as a Fullstack developer.
 
