@@ -56,12 +56,7 @@ my name is Ivan(@LifeLiker1).<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>
 </div>
 <h1></h1>
-<div align="center">
-  
-:fire: My Stats :
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LifeLiker1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 <!---
 LifeLiker1/LifeLiker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
